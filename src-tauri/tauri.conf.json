@@ -12,10 +12,15 @@
   "app": {
     "windows": [
       {
-        "title": "Password Generator",
-        "width": 1366,
-        "height": 768,
-        "resizable": true
+        "title": "UnknowPass",
+        "width": 480,
+        "height": 600,
+        "minWidth": 400,
+        "minHeight": 500,
+        "resizable": true,
+        "fullscreen": false,
+        "decorations": true,
+        "transparent": true
       }
     ],
     "security": {
